@@ -22,4 +22,7 @@
     <string name="btn_login">Login</string>
     <string name="menu_logout">Logout</string>
 
+    <string name="base_url_test">https://api.myjson.com/bins/</string>
+
+
 </resources>
